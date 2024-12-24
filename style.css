@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Funnel+Display&family=Questrial&display=swap');
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Bebas Neue', cursive;
+}
+
 .centered {
     text-align: center;
 }
